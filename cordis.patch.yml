@@ -1,0 +1,6 @@
+# Bundle patch for the recent-tasks plugin: inserts its plugin row into the
+# desktop profile roster. All rendering lives in the Client half (client.js);
+# the Host half (index.js) exists only so the row is addressable.
+- insert:
+    - id: recent-tasks
+      name: '@fishcg/dsh-recent-tasks'

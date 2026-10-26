@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Recent tasks",
+    "description": "Adds a collapsible Recent tasks folder at the top of the sidebar Workspaces list showing the 5 most recently updated tasks; one click opens the conversation."
+  }
+}
